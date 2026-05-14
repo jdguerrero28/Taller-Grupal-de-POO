@@ -6,15 +6,15 @@ Este repositorio contiene el desarrollo de un sistema de gestión para una Bibli
 ---
 
 ## Funcionalidades Principales
-* **Gestión de Catálogo
-* **Préstamos Inteligentes
-* **Control de Disponibilidad
-* **Reportes Ejecutivos
+* Gestión de Catálogo
+* Préstamos Inteligentes
+* Control de Disponibilidad
+* Reportes Ejecutivos
 
 
 
 ## Equipo de Trabajo
-* **Jose Pablo Ramirez** | *Líder de Desarrollo*
-* **Diego Torres** | *Diseñador (UML & UI)* 
-* **Juan Diego Guerrero** | *Diseñador 
-* **Gilson Salas** | *Evaluador QA 
+* **Jose Pablo Ramirez** | Líder de Desarrollo
+* **Diego Torres** | Diseñador  
+* **Juan Diego Guerrero** | Diseñador 
+* **Gilson Salas** | Evaluador QA 
