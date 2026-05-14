@@ -5,7 +5,7 @@ Este repositorio contiene el desarrollo de un sistema de gestión para una Bibli
 
 ---
 
-## 🚀 Funcionalidades Principales
+## Funcionalidades Principales
 * **Gestión de Catálogo
 * **Préstamos Inteligentes
 * **Control de Disponibilidad
